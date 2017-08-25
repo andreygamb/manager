@@ -9,6 +9,7 @@ import reducers from './reducers';
 import RouterComponent from './Router';
 
 export default class App extends Component {
+  // Some new comment
   state = {
     loggenIn: null
   }
